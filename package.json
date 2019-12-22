@@ -13,7 +13,7 @@
     "express": "^3.x",
     "express-sslify": "^0.1.0",
     "formidable": "=1.0.14",
-    "i18next": "=1.6.8",
+    "i18next": "=19.0.2",
     "jade": "=0.29.0",
     "locomotive": "= 0.4.2",
     "moment": "=2.0.0",
