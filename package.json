@@ -16,7 +16,7 @@
     "i18next": "=1.6.8",
     "jade": "=0.29.0",
     "locomotive": "= 0.4.2",
-    "moment": "=2.0.0",
+    "moment": "=2.24.0",
     "newrelic": "=5.11.0",
     "passport": "=0.1.17",
     "password-generator": "= 0.2.1",
