@@ -20,7 +20,7 @@
     "newrelic": "=5.11.0",
     "passport": "=0.1.17",
     "password-generator": "= 0.2.1",
-    "pg": "=6.1.2",
+    "pg": "=7.15.1",
     "sendgrid": "=0.2.7",
     "throng": "^1.0.0",
     "uuid": "3.1.0",
