@@ -25,7 +25,7 @@
     "throng": "^1.0.0",
     "uuid": "3.1.0",
     "uuid-v4": "0.1.0",
-    "validator": "1.2.1",
+    "validator": "12.1.0",
     "pg-query-stream": "0.7.0",
     "JSONStream": "*",
     "later": "1.1.6"
