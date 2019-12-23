@@ -13,11 +13,13 @@ Instrucciones de uso:
 
 Pruebas:
 
-1.- Usar un cliente API rest, recomendable Postman.
+1.- Usar un cliente API rest, recomendable Postman.<br/>
 2.- Datos: <br/>
-   .-URL: localhost:5000/api/mutant
-   .-METODO: POST
+   .-URL: localhost:5000/api/mutant<br/>
+   .-METODO: POST<br/>
    .- DATA BODY: {
       "dna": "["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]"
-   }
+   }<br/>
+ 3.- Imagen de prueba:<br/>
  
+ <img src="prueba_consulta.png" />
