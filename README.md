@@ -22,4 +22,4 @@ Pruebas:
    }<br/>
  3.- Imagen de prueba:<br/>
  
- <img src="prueba_consulta.png" />
+ <img src="/others/prueba_consulta.png" />
